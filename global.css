@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --heading-h3-title: "DM Sans";
+
+  /* font sizes */
+  --heading-h3-title-size: 42px;
+  --text-paragraph-size: 16px;
+  --buttons-big-size: 20px;
+  --buttons-middle-size: 18px;
+
+  /* Colors */
+  --colors-white: #fff;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+}
